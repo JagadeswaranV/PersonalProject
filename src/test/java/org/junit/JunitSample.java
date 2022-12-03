@@ -73,6 +73,11 @@ public class JunitSample extends LibGlobal
 		updateData("Adactin Data", 26, 7, bookingConfirmation);
 		}
 		@Test
+		public void tc10()
+		{
+			System.out.println("GIT Test10");
+		}
+		@Test
 		public void tc6()
 		{
 			System.out.println("GIT Test");
