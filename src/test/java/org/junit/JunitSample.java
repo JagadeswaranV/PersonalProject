@@ -77,6 +77,11 @@ public class JunitSample extends LibGlobal
 		{
 			System.out.println("GIT Test");
 		}
+		@Test
+		public void tc7()
+		{
+			System.out.println("GIT Test 2");
+		}
 
 
 }
