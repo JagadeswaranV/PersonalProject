@@ -2,199 +2,199 @@
 <testng-results ignored="1" total="16" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-02T10:36:18Z" name="Default suite" finished-at="2022-12-02T10:36:46Z" duration-ms="28034">
+  <suite started-at="2022-12-02T12:16:09Z" name="Default suite" finished-at="2022-12-02T12:16:36Z" duration-ms="27066">
     <groups>
     </groups>
-    <test started-at="2022-12-02T10:36:18Z" name="Default test" finished-at="2022-12-02T10:36:46Z" duration-ms="28034">
+    <test started-at="2022-12-02T12:16:09Z" name="Default test" finished-at="2022-12-02T12:16:36Z" duration-ms="27066">
       <class name="org.executable.TestNGSample">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:18Z" name="beforeClass" finished-at="2022-12-02T10:36:27Z" duration-ms="9189" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:09Z" name="beforeClass" finished-at="2022-12-02T12:16:16Z" duration-ms="6929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="adactinLogin()[pri:-1, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:27Z" name="adactinLogin" finished-at="2022-12-02T10:36:34Z" duration-ms="6863" status="PASS">
+        <test-method signature="adactinLogin()[pri:-1, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:16Z" name="adactinLogin" finished-at="2022-12-02T12:16:23Z" duration-ms="6371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adactinLogin -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:27Z" name="before" finished-at="2022-12-02T10:36:27Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:16Z" name="before" finished-at="2022-12-02T12:16:16Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:34Z" name="after" finished-at="2022-12-02T10:36:34Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:23Z" name="after" finished-at="2022-12-02T12:16:23Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method signature="adactinSearchHotel()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:34Z" name="adactinSearchHotel" finished-at="2022-12-02T10:36:36Z" duration-ms="2178" status="PASS">
+        <test-method signature="adactinSearchHotel()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:23Z" name="adactinSearchHotel" finished-at="2022-12-02T12:16:24Z" duration-ms="1701" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adactinSearchHotel -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:34Z" name="before" finished-at="2022-12-02T10:36:34Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:23Z" name="before" finished-at="2022-12-02T12:16:23Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:36Z" name="after" finished-at="2022-12-02T10:36:36Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:24Z" name="after" finished-at="2022-12-02T12:16:24Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:36Z" name="before" finished-at="2022-12-02T10:36:36Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:24Z" name="before" finished-at="2022-12-02T12:16:24Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method signature="adactinSelectHotel()[pri:1, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:36Z" name="adactinSelectHotel" finished-at="2022-12-02T10:36:37Z" duration-ms="1285" status="PASS">
+        <test-method signature="adactinSelectHotel()[pri:1, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:24Z" name="adactinSelectHotel" finished-at="2022-12-02T12:16:25Z" duration-ms="703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adactinSelectHotel -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:38Z" name="after" finished-at="2022-12-02T10:36:38Z" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method signature="adactinBookAHotel()[pri:2, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:38Z" name="adactinBookAHotel" finished-at="2022-12-02T10:36:39Z" duration-ms="1238" status="PASS">
+        <test-method signature="adactinBookAHotel()[pri:2, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:25Z" name="adactinBookAHotel" finished-at="2022-12-02T12:16:26Z" duration-ms="1176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adactinBookAHotel -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:38Z" name="before" finished-at="2022-12-02T10:36:38Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:25Z" name="before" finished-at="2022-12-02T12:16:25Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:39Z" name="after" finished-at="2022-12-02T10:36:39Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:25Z" name="after" finished-at="2022-12-02T12:16:25Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:39Z" name="before" finished-at="2022-12-02T10:36:39Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:26Z" name="after" finished-at="2022-12-02T12:16:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:26Z" name="before" finished-at="2022-12-02T12:16:26Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method signature="adactinBookingConfirmation()[pri:3, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:39Z" name="adactinBookingConfirmation" finished-at="2022-12-02T10:36:46Z" duration-ms="6831" status="PASS">
+        <test-method signature="adactinBookingConfirmation()[pri:3, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:26Z" name="adactinBookingConfirmation" finished-at="2022-12-02T12:16:36Z" duration-ms="9764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- adactinBookingConfirmation -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after -->
-        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="before" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multipleExecute -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="multipleExecute" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multipleExecute -->
-        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="after" finished-at="2022-12-02T10:36:46Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="after()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="after" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T10:36:46Z" name="afterClass" finished-at="2022-12-02T10:36:46Z" duration-ms="394" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="afterClass" finished-at="2022-12-02T12:16:36Z" duration-ms="362" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="before()[pri:0, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="before" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="multipleExecute()[pri:5, instance:org.executable.TestNGSample@1c33c17b]" started-at="2022-12-02T12:16:36Z" name="multipleExecute" finished-at="2022-12-02T12:16:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExecute -->
       </class> <!-- org.executable.TestNGSample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
