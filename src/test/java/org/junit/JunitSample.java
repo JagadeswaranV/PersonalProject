@@ -72,8 +72,26 @@ public class JunitSample extends LibGlobal
 		String bookingConfirmation = bookingConfirmationPage.bookingConfirmation(getData("Adactin Data", 25, 5));
 		updateData("Adactin Data", 26, 7, bookingConfirmation);
 		}
-
-		
+		@Test
+		public void tc6()
+		{
+			System.out.println("GIT Test");
+		}
+		@Test
+		public void tc7()
+		{
+			System.out.println("GIT Test 2");
+		}
+		@Test
+		public void tc8()
+		{
+			System.out.println("GIT Test 3");
+		}
+		@Test
+		public void tc9()
+		{
+			System.out.println("GIT Test 3");
+		}
 
 
 }
