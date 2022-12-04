@@ -83,6 +83,11 @@ public class JunitSample extends LibGlobal
 			System.out.println("GIT Test10");
 		}
 		@Test
+		public void tc12()
+		{
+			System.out.println("GIT Test12");
+		}
+		@Test
 		public void tc6()
 		{
 			System.out.println("GIT Test");
@@ -102,6 +107,10 @@ public class JunitSample extends LibGlobal
 		{
 			System.out.println("GIT Test 3");
 		}
-
+		@Test
+		public void tc18()
+		{
+			System.out.println("GIT Test 18");
+		}
 
 }
